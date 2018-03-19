@@ -1,0 +1,2 @@
+#!/bin/sh
+mount -i -o remount,exec /media/removable/*
